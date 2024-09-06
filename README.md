@@ -1,16 +1,46 @@
-# pojectabc
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#  Flutter Project
 
-A few resources to get you started if this is your first Flutter project:
+Welcome to **Hinu Cakes**, my first Flutter project! This app is designed to be a login interface for a cake business called "Hinu Cakes". Below, you'll find information about the project, its features, and how to set it up.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<!-- Include the image of the app here -->
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- **Splash Screen**: Displays a custom logo on launch.
+- **Login Page**: Users can enter their username and password.
+  - Error message for incorrect login credentials ("Username or password does not match").
+- **Home Screen**: After successful login, users are greeted with their username.
+
+## Screenshots
+
+| Splash Screen | Login Screen | Error Screen | Home Screen |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+
+
+## Project Structure
+
+- `lib/main.dart`: The main entry point of the application.
+- `lib/screens/`: Contains all the UI screens such as Splash, Login, and Home.
+- `assets/`: Stores the logo and other resources.
+
+## Future Enhancements
+
+- Add sign-up functionality.
+- Implement password recovery.
+- Add backend integration for user authentication.
+- Improve UI/UX design.
+
+## Technologies Used
+
+- Flutter (Dart)
+- Android Emulator for testing
+
+## Author
+
+- **Your Name** - [LinkedIn Profile](https://www.linkedin.com/in/muhammed-hameen-k-23a8b6303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
