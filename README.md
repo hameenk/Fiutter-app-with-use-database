@@ -18,7 +18,7 @@ Welcome to **Hinu Cakes**, my first Flutter project! This app is designed to be 
 
 | Splash Screen | Login Screen | Error Screen | Home Screen |
 | --- | --- | --- | --- |
-|  |  |  |  |
+|     |     |  |  |
 
 
 
