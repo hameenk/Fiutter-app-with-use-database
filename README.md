@@ -6,6 +6,10 @@
 Welcome to **Hinu Cakes**, my first Flutter project! This app is designed to be a login interface for a cake business called "Hinu Cakes". Below, you'll find information about the project, its features, and how to set it up.
 
 <!-- Include the image of the app here -->
+## Technologies Used
+<div><img alt="Flutter" src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+<img alt="Hive" src="https://img.shields.io/badge/hive-%23FFAE00.svg?style=for-the-badge&logo=hive&logoColor=white"/></div>
 
 ## Features
 
